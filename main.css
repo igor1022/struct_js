@@ -1,0 +1,29 @@
+.conteiner {
+    margin-top: 20px;
+    margin-left: 500px;
+    width: 200px;
+    height: 250px;
+    background-color: #c2c2c2;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+input {
+    position: absolute;
+    height: 20px;
+    width: 195px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.bod {
+    position: relative;
+    margin-left: 400px;
+    margin-top: 150px;
+    height: 100px;
+    width: 400px;
+    background-color: bisque;
+}
